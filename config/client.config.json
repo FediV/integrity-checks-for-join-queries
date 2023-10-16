@@ -1,0 +1,28 @@
+{
+    "queryMessages": {
+        "L": {
+            "queryFilter": "",
+            "minSaltLength": 3
+        },
+        "R": {
+            "queryFilter": "",
+            "minSaltLength": 3
+        }
+    },
+    "useOccurrences": false,
+    "isSemiJoin": false,
+    "minNumberOfMarkers": 0,
+    "numberOfMarkers": 1,
+    "maxNumberOfMarkers": 10,
+    "replicationFactor": 2,
+    "twinCondition": {
+        "values": [
+
+        ],
+        "ptwin": 0.1
+    },
+    "workers": [
+        "worker_0",
+        "worker_1"
+    ]
+}

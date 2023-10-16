@@ -1,0 +1,69 @@
+Arrhythmias
+Deep venous thrombosis
+Heart failure
+Hypertension
+Inflammatory
+Endocarditis
+Myocarditis
+Pericardial disease
+Ischemic disease
+Peripheral vascular disease
+Shock
+Syncope
+Valvular disease
+Assisted ventilation
+Asthma
+Chronic obstructive pulmonary disease
+Interstitial lung disease
+Neoplasms
+Pleural disease
+Pneumonia
+Pneumothorax
+Pulmonary embolism
+Tuberculosis
+Bleeding
+Gastroparesis
+Bleeding
+Constipation
+Diverticulosis
+Inflammatory bowel disease
+Infections
+Ischemia
+Obstruction
+Gallbladder disease
+Liver disease
+Pancreatitis
+Malnutrition
+Adrenal gland disease
+Diabetes mellitus
+Diabetic ketoacidosis
+Hyperosmolar nonketotic coma
+Hypoglycemia
+Neoplasms
+Thyroid
+Nephrology
+Acid base disorders
+Acute kidney injury
+Chronic kidney disease
+Diabetes insipidus
+Neoplasms
+Nephrolithiasis
+Urinary tract infections
+Anemias
+Bone marrow disorders
+Coagulopathies
+Hematologic malignancies
+Neutropenic fever
+Solid organ tumors
+Fungal infections
+HIV
+Hospital acquired infections
+Infection in immunocompromised host
+Sepsis syndrome
+Skin and soft tissue infections
+Travel related illnesses
+Viral infections
+Anaphylaxis
+Autoimmune disorders
+Drug reactions
+Inflammatory

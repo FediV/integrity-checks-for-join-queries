@@ -1,0 +1,35 @@
+{
+    "storageServer1": {
+        "name": "L",
+        "ipAddr": "127.0.0.1",
+        "port": "1337",
+        "outputFilePath": "./out/StorageServerOutputL.txt"
+    },
+    "storageServer2": {
+        "name": "R",
+        "ipAddr": "127.0.0.1",
+        "port": "1338",
+        "outputFilePath": "./out/StorageServerOutputR.txt"
+    },
+    "computationalServer": {
+        "name": "CSP",
+        "ipAddr": "127.0.0.1",
+        "port": "1339",
+        "outputFilePath": "./out/ComputationalServerOutput.txt"
+    },
+    "client": {
+        "name": "Client",
+        "ipAddr": "127.0.0.1",
+        "port": "1340",
+        "dbPath": "./data/dbClient",
+        "tableName": "RESULTTABLE"
+    },
+    "numberOfRuns": 1,
+    "tamperingProbability": 0.0,
+    "lazyProbability": 0.001,
+    "loggerLevel": 2,
+    "trustedWorkers": 0.00,
+    "overwriteStatisticsFile": true,
+    "statisticsOccurrencesFilePath": "./stats/stats_occurrences.json",
+    "statisticsTwinsFilePath": "./stats/stats_twins.json"
+}

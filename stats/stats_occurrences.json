@@ -1,0 +1,22 @@
+[ {
+  "runId" : 1,
+  "elapsedTime" : 9607,
+  "tableLsize" : "68,00 KB",
+  "tableRsize" : "84,00 KB",
+  "resultTableSize" : "0 KB",
+  "resultTableTuples" : 0,
+  "numberOfTwinsL" : 0,
+  "numberOfTwinsR" : 0,
+  "numberOfMarkers" : 1,
+  "maxNumberOfOccurrencesL" : 1,
+  "maxNumberOfOccurrencesR" : 2,
+  "occurrencesControlsL" : 0,
+  "occurrencesControlsR" : 500,
+  "totalControlTuples" : 1,
+  "controlTuplesSize" : 4034,
+  "tamperingError" : false,
+  "integrityError" : true,
+  "creationOverheadL" : 472,
+  "creationOverheadR" : 262,
+  "checkIntegrityOverhead" : 13
+} ]
